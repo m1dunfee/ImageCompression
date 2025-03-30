@@ -1,1 +1,2 @@
 # ImageCompression
+Need to go over this again becuase the photos didn't show up in the pdf, but the did in matlab. I also have to remove matlab_r2024b_windows and the _temp_matlab_r2024b_windows files with a gitignore. 
