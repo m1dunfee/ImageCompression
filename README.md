@@ -1,2 +1,4 @@
-# ImageCompression
-Need to go over this again becuase the photos didn't show up in the pdf, but the did in matlab. I also have to remove matlab_r2024b_windows and the _temp_matlab_r2024b_windows files with a gitignore. 
+This project was part of my Linear Algebra class and served as a hands-on test of my understanding of both the concepts and their applications. I really enjoyed working with MATLAB and hope to explore linear algebra more deeply in the future. I spent far more time than required on this class, diving into the material to truly understand how linear algebra can be used. What I discovered was a beautiful science that connects every math class I had taken before into an amazing analytical tool. I know I've only just scratched the surface of this topic, and I would love the opportunity to explore it further in a professional setting and under the guidance of a master in the field.
+
+● todo
+Need to go over this again becuase the photos didn't show up in the pdf, but the did in matlab. I had to remove matlab_r2024b_windows and the _temp_matlab_r2024b_windows files with a gitignore.
